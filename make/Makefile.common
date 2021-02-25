@@ -40,4 +40,3 @@ test:
 # the settings if the example is updated.
 settings.json: 
 	cp settings-default.json settings.json 
-#	cp settings-freebsd.json settings.json
